@@ -1,0 +1,344 @@
+[
+    {
+        "id": 1,
+        "name": "Martin Yan",
+        "yearsOfExperience": 8,
+        "numberOfRecipes": 3,
+        "likes": 2500,
+        "img":  "../src/assets/chef1.jpg",
+        "bio": "Martin Yan is a Chinese-American chef and food writer. He has hosted his award-winning PBS-TV cooking show Yan Can Cook since 1982.",
+        "recipes": [
+            {
+              "name": "Hot Pot",
+              "ingredients": [
+                "meat slices",
+                "vegetables",
+                "mushrooms",
+                "tofu",
+                "noodles",
+                "spicy dipping sauce",
+                "soy sauce"
+              ],
+              "cooking_method": "Fill a large pot with broth and bring to a boil. Add meat slices, vegetables, mushrooms, tofu, and noodles to the pot and cook until done. Serve with spicy dipping sauce and soy sauce.",
+              "rating": 4.9
+            },
+            {
+              "name": "Peking Duck",
+              "ingredients": [
+                "duck",
+                "scallions",
+                "cucumbers",
+                "pancakes",
+                "hoisin sauce"
+              ],
+              "cooking_method": "Season a whole duck with spices and roast in the oven. Serve with thin pancakes, sliced scallions, sliced cucumbers, and hoisin sauce. To eat, wrap a slice of duck and some vegetables in a pancake and dip in the sauce.",
+              "rating": 4.8
+            },
+            {
+              "name": "Sichuan Hot and Sour Soup",
+              "ingredients": [
+                "tofu",
+                "mushrooms",
+                "bamboo shoots",
+                "wood ear mushrooms",
+                "pork",
+                "chicken broth",
+                "vinegar",
+                "soy sauce",
+                "chili oil"
+              ],
+              "cooking_method": "Saute tofu, mushrooms, bamboo shoots, and wood ear mushrooms in a pot. Add pork and chicken broth and bring to a boil. Add vinegar, soy sauce, and chili oil to taste. Serve hot.",
+              "rating": 4.7
+            }
+          ]
+    },
+    {
+        "id": 2,
+        "name": "Gordon Ramsay",
+        "yearsOfExperience": 15,
+        "numberOfRecipes": 5,
+        "likes": 5000,
+        "img":  "../src/assets/chef2.jpg",
+        "recipes": [
+            {
+              "name": "Shrimp and Lobster Sauce",
+              "ingredients": [
+                "shrimp",
+                "ground pork",
+                "fermented black beans",
+                "garlic",
+                "scallions",
+                "eggs"
+              ],
+              "cooking_method": "Stir-fry garlic, scallions, and fermented black beans. Add ground pork and shrimp, and stir-fry until cooked. Add eggs and stir until they are scrambled. Serve with steamed rice.",
+              "rating": 4.5
+            },
+            {
+              "name": "General Tso's Chicken",
+              "ingredients": [
+                "chicken thighs",
+                "cornstarch",
+                "soy sauce",
+                "rice vinegar",
+                "sugar",
+                "garlic",
+                "ginger",
+                "dried chili peppers"
+              ],
+              "cooking_method": "Marinate chicken in cornstarch and soy sauce, then fry until crispy. Stir-fry garlic, ginger, dried chili peppers, and a sauce made with soy sauce, rice vinegar, and sugar. Add the fried chicken and toss until coated. Serve with steamed broccoli and rice.",
+              "rating": 4.8
+            },
+            {
+              "name": "Shanghai Noodles",
+              "ingredients": [
+                "shanghai noodles",
+                "ground pork",
+                "soy sauce",
+                "dark soy sauce",
+                "sugar",
+                "garlic",
+                "scallions",
+                "vegetable oil"
+              ],
+              "cooking_method": "Boil shanghai noodles, then drain and rinse with cold water. Stir-fry garlic, scallions, and ground pork. Add the noodles and stir-fry with soy sauce, dark soy sauce, and sugar. Serve hot.",
+              "rating": 4.4
+            }
+          ]
+    },
+    {
+        "id": 3,
+        "name": "Jamie Oliver",
+        "yearsOfExperience": 10,
+        "numberOfRecipes": 4,
+        "likes": 3500,
+        "img":  "../src/assets/chef3.jpg",
+        "recipes": [
+            {
+              "name": "Kung Pao Chicken",
+              "ingredients": [
+                "chicken",
+                "peanuts",
+                "chili peppers",
+                "scallions",
+                "soy sauce",
+                "rice vinegar",
+                "cornstarch",
+                "ginger",
+                "garlic",
+                "vegetable oil"
+              ],
+              "cooking_method": "1. Cut the chicken into small pieces and marinate with soy sauce, rice vinegar, and cornstarch. \n2. Heat up the vegetable oil in a wok and stir-fry the chicken until it is cooked through. \n3. Add the ginger and garlic and stir-fry for a minute. \n4. Add the peanuts, chili peppers, and scallions and stir-fry for another minute. \n5. Serve with rice.",
+              "rating": 4.8
+            },
+            {
+              "name": "Dim Sum",
+              "ingredients": [
+                "shrimp",
+                "pork",
+                "water chestnuts",
+                "bamboo shoots",
+                "shiitake mushrooms",
+                "sesame oil",
+                "soy sauce",
+                "sugar",
+                "cornstarch",
+                "wonton wrappers"
+              ],
+              "cooking_method": "1. Mix together the shrimp, pork, water chestnuts, bamboo shoots, shiitake mushrooms, sesame oil, soy sauce, sugar, and cornstarch to make the filling. \n2. Place a spoonful of the filling in the center of a wonton wrapper and fold the wrapper around the filling. \n3. Steam the dumplings for 5-6 minutes until they are cooked through. \n4. Serve with soy sauce.",
+              "rating": 4.7
+            },
+            {
+              "name": "Ma Po Tofu",
+              "ingredients": [
+                "tofu",
+                "ground pork",
+                "chili bean sauce",
+                "doubanjiang",
+                "soy sauce",
+                "chicken broth",
+                "cornstarch",
+                "scallions",
+                "ginger",
+                "garlic",
+                "vegetable oil"
+              ],
+              "cooking_method": "1. Cut the tofu into small cubes and set aside. \n2. Brown the ground pork in a wok or skillet. \n3. Add the chili bean sauce, doubanjiang, soy sauce, and chicken broth to the pork and stir to combine. \n4. Add the tofu and gently stir to coat with the sauce. \n5. Mix the cornstarch with a little water to make a slurry and add it to the wok. Stir until the sauce thickens. \n6. Garnish with scallions and serve with rice.",
+              "rating": 4.9
+            }
+          ]
+        
+    },
+    {
+        "id": 4,
+        "name": "Nigella Lawson",
+        "yearsOfExperience": 12,
+        "numberOfRecipes": 3,
+        "likes": 4000,
+        "img":  "../src/assets/chef4.jpg",
+        "recipes": [
+            {
+              "name": "Hot Pot",
+              "ingredients": [
+                "meat slices",
+                "vegetables",
+                "mushrooms",
+                "tofu",
+                "noodles",
+                "spicy dipping sauce",
+                "soy sauce"
+              ],
+              "cooking_method": "Fill a large pot with broth and bring to a boil. Add meat slices, vegetables, mushrooms, tofu, and noodles to the pot and cook until done. Serve with spicy dipping sauce and soy sauce.",
+              "rating": 4.9
+            },
+            {
+              "name": "Peking Duck",
+              "ingredients": [
+                "duck",
+                "scallions",
+                "cucumbers",
+                "pancakes",
+                "hoisin sauce"
+              ],
+              "cooking_method": "Season a whole duck with spices and roast in the oven. Serve with thin pancakes, sliced scallions, sliced cucumbers, and hoisin sauce. To eat, wrap a slice of duck and some vegetables in a pancake and dip in the sauce.",
+              "rating": 4.8
+            },
+            {
+              "name": "Sichuan Hot and Sour Soup",
+              "ingredients": [
+                "tofu",
+                "mushrooms",
+                "bamboo shoots",
+                "wood ear mushrooms",
+                "pork",
+                "chicken broth",
+                "vinegar",
+                "soy sauce",
+                "chili oil"
+              ],
+              "cooking_method": "Saute tofu, mushrooms, bamboo shoots, and wood ear mushrooms in a pot. Add pork and chicken broth and bring to a boil. Add vinegar, soy sauce, and chili oil to taste. Serve hot.",
+              "rating": 4.7
+            }
+          ]
+    },
+    {
+        "id": 5,
+        "name": "Anthony Bourdain",
+        "yearsOfExperience": 20,
+        "numberOfRecipes": 6,
+        "likes": 6000,
+        "img":  "../src/assets/chef5.jpg",
+        "recipes": [
+            {
+              "name": "Stir-Fried Beef with Broccoli",
+              "ingredients": [
+                "1 lb flank steak, sliced thinly",
+                "1 lb broccoli, cut into florets",
+                "2 tbsp vegetable oil",
+                "2 cloves garlic, minced",
+                "1 tbsp soy sauce",
+                "1 tbsp cornstarch",
+                "1 tbsp oyster sauce",
+                "1/2 tsp sugar",
+                "1/4 cup water",
+                "Salt and pepper, to taste"
+              ],
+              "cooking_method": "1. In a small bowl, mix together the soy sauce, cornstarch, oyster sauce, sugar, and water. Set aside.\n\n2. In a wok or large skillet, heat the vegetable oil over high heat. Add the garlic and stir-fry for 10 seconds.\n\n3. Add the beef and stir-fry until browned, about 2-3 minutes.\n\n4. Add the broccoli and stir-fry for 2-3 minutes, until tender-crisp.\n\n5. Add the sauce to the pan and stir to combine. Cook for another minute or until the sauce thickens.\n\n6. Season with salt and pepper to taste.",
+              "rating": 4.8
+            },
+            {
+              "name": "Chow Mein",
+              "ingredients": [
+                "1 lb Chinese egg noodles",
+                "1/2 lb chicken breast, sliced thinly",
+                "2 cups cabbage, sliced thinly",
+                "1/2 cup carrots, sliced thinly",
+                "1/2 cup onion, sliced thinly",
+                "2 cloves garlic, minced",
+                "2 tbsp vegetable oil",
+                "2 tbsp soy sauce",
+                "1 tbsp oyster sauce",
+                "1 tbsp sugar",
+                "1/4 cup chicken broth",
+                "Salt and pepper, to taste"
+              ],
+              "cooking_method": "1. Cook the noodles according to package instructions. Drain and set aside.\n\n2. In a wok or large skillet, heat the vegetable oil over high heat. Add the garlic and stir-fry for 10 seconds.\n\n3. Add the chicken and stir-fry until browned, about 2-3 minutes.\n\n4. Add the cabbage, carrots, and onion and stir-fry for another 2-3 minutes, until tender-crisp.\n\n5. In a small bowl, mix together the soy sauce, oyster sauce, sugar, and chicken broth. Add the sauce to the pan and stir to combine.\n\n6. Add the noodles to the pan and toss to combine with the sauce and vegetables. Cook for another minute or until everything is heated through.\n\n7. Season with salt and pepper to taste.",
+              "rating": 4.7
+            },
+            {
+              "name": "Wontons",
+              "ingredients": [
+                "1 lb ground pork",
+                "1 tbsp soy sauce",
+                "1 tbsp oyster sauce",
+                "1 tsp sesame oil",
+                "1/2 tsp salt",
+                "1/4 tsp black pepper",
+                "1 egg",
+                "1 tbsp cornstarch",
+                "1 tbsp water",
+                "1 package wonton wrappers",
+                "4 cups chicken broth"
+              ],
+              "cooking_method": "1. In a large bowl, mix together the ground pork, soy sauce, oyster sauce, sesame oil, salt, pepper, egg, cornstarch, and water.\n\n2.",
+              "rating": 4.5
+            }
+          ]
+    },
+    {
+        "id": 6,
+        "name": "Sanjeev Kapoor",
+        "yearsOfExperience": 25,
+        "numberOfRecipes": 7,
+        "likes": 7000,
+        "img":  "../src/assets/chef6.jpg",
+        "recipes": [
+            {
+              "name": "Fried Rice",
+              "ingredients": [
+                "cooked rice",
+                "egg",
+                "vegetables (such as peas, carrots, and onions)",
+                "soy sauce",
+                "sesame oil",
+                "garlic",
+                "green onions"
+              ],
+              "cooking_method": "Heat sesame oil in a wok or large pan. Add garlic and stir until fragrant. Add vegetables and stir until cooked. Add beaten egg and stir until cooked. Add cooked rice, soy sauce, and green onions. Stir until well combined and heated through.",
+              "rating": 4.8
+            },
+            {
+              "name": "Spring Rolls",
+              "ingredients": [
+                "spring roll wrappers",
+                "ground pork",
+                "shrimp",
+                "carrots",
+                "cabbage",
+                "mushrooms",
+                "bean sprouts",
+                "soy sauce",
+                "sesame oil",
+                "garlic"
+              ],
+              "cooking_method": "In a wok or large pan, heat sesame oil and garlic. Add ground pork and shrimp, and stir until cooked. Add vegetables and stir until cooked. Add soy sauce and stir until well combined. Spoon filling onto a spring roll wrapper and roll tightly. Repeat with remaining filling and wrappers. Fry spring rolls until golden brown.",
+              "rating": 4.7
+            },
+            {
+              "name": "Char Siu (Barbecued Pork)",
+              "ingredients": [
+                "pork shoulder",
+                "honey",
+                "hoisin sauce",
+                "soy sauce",
+                "rice wine",
+                "garlic",
+                "five spice powder"
+              ],
+              "cooking_method": "Mix honey, hoisin sauce, soy sauce, rice wine, garlic, and five spice powder. Marinate pork shoulder in the mixture for several hours or overnight. Roast pork in the oven until cooked through and charred on the outside.",
+              "rating": 4.9
+            }
+          ]
+        }
+        
+  
+]

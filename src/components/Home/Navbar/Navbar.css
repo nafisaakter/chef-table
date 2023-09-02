@@ -1,0 +1,18 @@
+.logo{
+   
+    font-size: 48px;
+}
+.my-btn{
+    
+        background: transparent;
+        border: 2px solid #ff812b;
+        border-radius: 100px;
+        color: #ff812b;
+        transition: all .3s ease-in-out;
+        padding: 15px 40px;
+        font-size: 20px;
+        line-height: 20px;
+        letter-spacing: .03em;
+        text-align: center;
+    
+}
